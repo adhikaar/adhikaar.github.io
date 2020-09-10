@@ -28,19 +28,19 @@
 }
 
 .bg-primary {
-  background-color: #f0d49a !important;
-  color: black !important;
+  background-color: #8f613a !important;
+  color: white !important;
 }
 
 .bg-success {
-  background-color: #4a6b78 !important;
+  background-color: #82aa66 !important;
   color: white !important;
 }
 .bg-warning {
-  background-color:	#82aa66 !important;
+  background-color:	#4a6b78 !important;
   color: white !important;
 }
 .bg-danger {
-  background-color: #8f613a !important;
-  color: white !important;
+  background-color: #f0d49a !important;
+  color: black !important;
 }
